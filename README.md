@@ -1,6 +1,10 @@
 # MACHINE LEARNING LAB USING PYTHON
 ## Machine Learning Excercises
 
+
+
+![Views](https://visitor-badge.glitch.me/badge?page_id=https://github.com/vinothkumar2/ML-Excercise&left_color=lightgrey&right_color=yellow&left_text=visitors)
+
 1. <a href="https://github.com/vinothkumar2/ML-Excercise/tree/main/ex1">Solving Regression & Classification using Decision Trees</a>
 2. <a href="https://github.com/vinothkumar2/ML-Excercise/tree/main/Attribute%20Selection%20Model">Root Node Attribute Selection for Decision Trees using Information Gain </a>
 3. <a href="https://github.com/vinothkumar2/ML-Excercise/tree/main/Gene%20Expression%20Monitoring%20Analysis">Bayesian Inference in Gene Expression Analysis</a>
