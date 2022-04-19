@@ -1,7 +1,7 @@
 # MACHINE LEARNING LAB USING PYTHON
 ## Machine Learning Excercises
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/vinothkumar2/ML-Excercise&left_color=lightgrey&right_color=yellow&left_text=Page_Views) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvinothkumar2%2FML-Excercise%2F&count_bg=%2338393D&title_bg=%2327B3BE&icon=github.svg&icon_color=%23E7E7E7&title=Repo+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 1. <a href="https://github.com/vinothkumar2/ML-Excercise/tree/main/ex1">Solving Regression & Classification using Decision Trees</a>
 2. <a href="https://github.com/vinothkumar2/ML-Excercise/tree/main/Attribute%20Selection%20Model">Root Node Attribute Selection for Decision Trees using Information Gain </a>
@@ -15,3 +15,5 @@
 10. Data & Text Clustering using Gaussian Mixture Models
 11. Dimensionality Reduction Algorithms in Image Processing applications
 12. Application of CRFs in Natural Language Processing
+
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
