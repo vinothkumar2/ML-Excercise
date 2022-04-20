@@ -8,7 +8,7 @@
 3. <a href="https://github.com/vinothkumar2/ML-Excercise/tree/main/Gene%20Expression%20Monitoring%20Analysis">Bayesian Inference in Gene Expression Analysis</a>
 4. <a href="https://github.com/vinothkumar2/ML-Excercise/tree/main/ex4">Pattern Recognition Application using Bayesian Inference</a>
 5. <a href="https://github.com/vinothkumar2/ML-Excercise/tree/main/Ensemble%20Learning">Bagging in Classification</a>
-6. <a href="https://github.com/vinothkumar2/ML-Excercise/tree/main/ex6">Bagging, Boosting applications using Regression Trees</a>
+6. <a href="https://github.com/vinothkumar2/ML-Excercise/tree/main/bagging">Bagging, Boosting applications using Regression Trees</a>
 7. Data & Text Classification using Neural Networks
 8. Using Weka tool for SVM classification for chosen domain application
 9. Data & Text Clustering using K-means algorithm
