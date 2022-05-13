@@ -10,7 +10,7 @@
 5. <a href="https://github.com/vinothkumar2/ML-Excercise/tree/main/Ensemble%20Learning">Bagging in Classification</a>
 6. <a href="https://github.com/vinothkumar2/ML-Excercise/tree/main/bagging">Bagging, Boosting applications using Regression Trees</a>
 7. <a href="https://github.com/vinothkumar2/ML-Excercise/tree/main/ex7">Data & Text Classification using Neural Networks</a>
-8. Using Weka tool for SVM classification for chosen domain application
+8. Using <a href="https://www.cs.waikato.ac.nz/ml/weka/">Weka tool</a> for SVM classification for chosen domain application
 9.  <a href="https://github.com/vinothkumar2/ML-Excercise/tree/main/k-means-clustering">Data & Text Clustering using K-means algorithm</a>
 10. <a href="https://github.com/vinothkumar2/ML-Excercise/tree/main/ex10">Data & Text Clustering using Gaussian Mixture Models</a>
 11. <a href="https://github.com/vinothkumar2/ML-Excercise/tree/main/ex11">Dimensionality Reduction Algorithms in Image Processing applications</a>
