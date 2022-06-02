@@ -14,6 +14,6 @@
 9.  <a href="https://github.com/vinothkumar2/ML-Excercise/tree/main/k-means-clustering">Data & Text Clustering using K-means algorithm</a>
 10. <a href="https://github.com/vinothkumar2/ML-Excercise/tree/main/ex10">Data & Text Clustering using Gaussian Mixture Models</a>
 11. <a href="https://github.com/vinothkumar2/ML-Excercise/tree/main/ex11">Dimensionality Reduction Algorithms in Image Processing applications</a>
-12. Application of CRFs in Natural Language Processing
+12. <a href="https://github.com/vinothkumar2/ML-Excercise/tree/main/ex-12">Application of CRFs in Natural Language Processing
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
