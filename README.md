@@ -17,3 +17,7 @@
 12. <a href="https://github.com/vinothkumar2/ML-Excercise/tree/main/ex-12">Application of CRFs in Natural Language Processing
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+
+  ## Collection of ARFF datasets for <b>WEKA</b>
+  
+👉 <a href="https://github.com/vinothkumar2/arff-datasets">Check Here<a>
